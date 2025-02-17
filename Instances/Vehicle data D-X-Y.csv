@@ -1,0 +1,12 @@
+Attribute;Vehicle 1;Vehicle 2;Vehicle 3; Vehicle 4
+Capacity;13.6;10;13.6;6.0 
+Weight;0;10000;0;6500 
+Max weight;24000;24000;24000;24000 
+Start Country code;DE;NL;DE;DE 
+Start Zipcode;70173;7547;20038;80331 
+Start Date;05-02-2024;06-02-2024;06-02-2024;07-02-2024 
+Start Time;6:00;6:00;9:00;11:00 
+End Country code(s);NL&NL&NL;DE;NL;NL&DE 
+End Zip code(s);7547&5656&8021;10115;7547;3454&48079 
+End Date;07-02-2024;09-02-2024;07-02-2024;09-02-2024 
+End Time;12:00;18:00;19:00;15:00 
