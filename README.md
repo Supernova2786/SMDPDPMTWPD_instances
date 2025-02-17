@@ -15,7 +15,7 @@ The following steps are taken in order to generate instances for this paper base
         - The profit, demand and weight of each order are calculated as before.
         - Service times and with of each time window (WTW) is taken from the El Bouyahyiouy and Bellabdaoui (2022).
         - The following formulas are used for the time windows:
-              e_{i} = U(0.75,1.25) * min_{k in K}(t_(τ_{k}i})   i in P 
-              l_{i} = e_{i} + WTW                               i in P
-              e_{N+i} = e_{i} + s_{i} + U(1,2) * t_{i(N+i)}     i in D
-              l_{N+i} = e_{N+i} + WTW                           i in D
+              - e_{i} = U(0.75,1.25) * min_{k in K}(t_(τ_{k}i})   i in P 
+              - l_{i} = e_{i} + WTW                               i in P
+              - e_{N+i} = e_{i} + s_{i} + U(1,2) * t_{i(N+i)}     i in D
+              - l_{N+i} = e_{N+i} + WTW                           i in D
