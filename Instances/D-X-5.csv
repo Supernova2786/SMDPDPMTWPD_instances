@@ -1,0 +1,6 @@
+Order number;Pickup date;Pickup days;Pickup Country;Pickup Zip code;Pickup Start time;Pickup End time;Delivery date;Delivery days;Delivery Country;Delivery Zip code;Delivery Start time;Delivery End time;Kilometers;Revenue;Loading meters;Weight;Pallet exchange
+[D-X-5]-1;9/02/2024;0;DE;94575;07:00;19:00;11/02/2024;1;DE;49504;08:00;18:00;684;1519;13.6;4602.7;No
+[D-X-5]-2;11/02/2024;1;BE;2000;08:00;16:00;11/02/2024;2;BE;3600;08:00;16:00;93;110;13.6;20724.5;No
+[D-X-5]-3;6/02/2024;1;DE;09111;06:00;16:00;9/02/2024;0;DE;20354;11:00;14:00;497;682;13.6;15145.2;No
+[D-X-5]-4;5/02/2024;0;DE;34431;06:00;13:00;10/02/2024;0;DE;85462;07:00;13:00;523;880;13.6;2975.5;No
+[D-X-5]-5;10/02/2024;1;DE;15236;06:00;17:00;17/02/2024;2;DE;76131;06:00;13:00;725;2061;13.6;23406.5;No
